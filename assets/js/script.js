@@ -11,3 +11,7 @@ const usernameSubmit = document.getElementById('username-submit');
 const rulesModal = document.getElementById('rules-modal');
 const closeModal = document.querySelectorAll('.modal .close');
 
+// Quiz state variables
+let currentQuestion = 0;  // Tracks the current question index
+let score = 0;  // Tracks the user's score
+let username = '';  // Stores the username entered by the user
