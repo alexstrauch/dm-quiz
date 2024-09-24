@@ -383,3 +383,26 @@ footer {
     font-size: 1rem;
   }
 }
+
+/* Media queries for tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+  /* Navigation menu */
+  .menu-icon {
+    display: none;
+  }
+
+  nav {
+    position: static;
+    width: auto;
+    background-color: transparent;
+  }
+
+  nav ul {
+    display: flex;
+  }
+
+  nav ul li {
+    border-bottom: none;
+    margin-left: 1rem;
+  }
+}
