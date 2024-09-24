@@ -71,3 +71,8 @@ const questions = [
     }
 
 ];
+
+// Event listener for starting the quiz (opens username modal)
+startButton.addEventListener('click', () => {
+    usernameModal.style.display = 'block';
+});
