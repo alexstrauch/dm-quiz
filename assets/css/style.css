@@ -133,6 +133,43 @@ main {
   margin-top: 10px;
 }
 
+/* Footer styles */
+
+footer {
+  background-color: #000000;
+  color: #fff;
+  padding: 1rem;
+  flex-shrink: 0;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.social-links {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.social-links a {
+  color: #fff;
+  font-size: 1.5rem;
+  margin: 0 0.5rem;
+}
+
+.footer-info {
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.footer-info a {
+  font-family: "Rock Salt", cursive;
+  text-decoration: none;
+  color: #6791e0;
+}
+
 /* Modal styles */
 .hidden {
   display: none;
