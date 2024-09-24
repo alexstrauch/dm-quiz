@@ -133,21 +133,22 @@ function checkAnswer(selectedAnswerIndex) {
     if (selectedAnswerIndex === correctAnswerIndex) {
         feedback.textContent = "Correct!";
         feedback.style.color = 'green';
-        score++;
-        scoreDisplay.textContent = `Score: ${score}`;
+        score++; // Increment score if answer is correct
+        scoreDisplay.textContent = `Score: ${score}`; // Update score display
     } else {
         feedback.textContent = `Incorrect. The correct answer was: ${correctAnswer}`;
         feedback.style.color = 'red';
     }
 
-    feedback.classList.remove('hidden');
-    currentQuestion++;
+    feedback.classList.remove('hidden'); // Show feedback
+    currentQuestion++; // Move to the next question
 
+    // Check if there are more questions or end the quiz
     if (currentQuestion < questions.length) {
         setTimeout(() => {
             loadQuestion();
             feedback.textContent = "";
-        }, 2500);
+        }, 2500); // 2.5-second delay for feedback
     } else {
         setTimeout(() => {
             questionText.classList.add('hidden');
@@ -163,4 +164,28 @@ function checkAnswer(selectedAnswerIndex) {
             answers.appendChild(retryButton);
         }, 2500);
     }
+}
+
+/**
+ * Resets the quiz to its initial state.
+ */
+function resetQuiz() {
+    currentQuestion = 0; // Reset question index
+    score = 0; // Reset score
+    scoreDisplay.textContent = `Score: 0`; // Reset score display
+    feedback.textContent = ""; // Clear feedback
+
+    // Hide quiz elements and show start button again
+    answers.innerHTML = '';
+    questionText.classList.add('hidden');
+    answers.classList.add('hidden');
+    feedback.classList.add('hidden');
+    scoreDisplay.classList.add('hidden');
+
+    startButton.classList.remove('hidden');
+    rulesButton.classList.remove('hidden');
+
+    // Reset username
+    username = '';
+    usernameInput.value = '';
 }
