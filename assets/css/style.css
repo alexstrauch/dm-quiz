@@ -366,3 +366,20 @@ footer {
     max-width: 45%;
   }
 }
+
+/* Media query for tablets and smaller devices (767px and down) */
+@media screen and (max-width: 767px) {
+  /* Highlights active page */
+  .active {
+    color: #2e3a63;
+    background-color: #fff;
+  }
+
+  .hero h1 {
+    font-size: 2rem;
+  }
+
+  .hero p {
+    font-size: 1rem;
+  }
+}
