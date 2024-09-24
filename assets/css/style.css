@@ -83,3 +83,9 @@ nav ul li a {
 .menu-toggle:checked ~ nav {
     left: 0;
   }
+
+/* Main content */
+main {
+    flex: 1 0 auto;
+    padding: 0;
+  }
