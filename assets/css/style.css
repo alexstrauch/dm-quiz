@@ -32,9 +32,45 @@ header {
     width: 100%;
   }
   
-  .logo {
+.logo {
     color: #fff;
     font-size: 1.2rem;
     font-weight: bold;
     text-decoration: none;
+  }
+
+/* Navigation menu */
+.menu-toggle {
+    display: none;
+  }
+  
+.menu-icon {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 3px;
+    color: #fff;
+    font-size: 1.5rem;
+  }
+  
+nav {
+    position: absolute;
+    top: 100%;
+    left: -100%;
+    background-color: #000000;
+    width: 100%;
+    transition: left 0.3s ease;
+  }
+  
+nav ul {
+    list-style-type: none;
+  }
+  
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 0.2rem 1rem;
   }
