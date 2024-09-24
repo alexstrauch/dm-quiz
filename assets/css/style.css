@@ -410,4 +410,19 @@ h2 {
     border-bottom: none;
     margin-left: 1rem;
   }
+
+  /* Footer */
+  .footer-content {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+
+  .social-links {
+    margin-bottom: 0;
+  }
+
+  .footer-info {
+    text-align: justify;
+  }
 }
