@@ -76,3 +76,20 @@ const questions = [
 startButton.addEventListener('click', () => {
     usernameModal.style.display = 'block';
 });
+
+// Event listener for submitting username and starting the quiz
+usernameSubmit.addEventListener('click', () => {
+    username = usernameInput.value.trim();
+    if (username) {
+        // Hide modals and buttons, show quiz elements
+        usernameModal.style.display = 'none';
+        startButton.classList.add('hidden');
+        rulesButton.classList.add('hidden');
+        questionText.classList.remove('hidden');
+        answers.classList.remove('hidden');
+        scoreDisplay.classList.remove('hidden');
+        loadQuestion();
+    } else {
+        alert('Please enter a valid username.');
+    }
+});
