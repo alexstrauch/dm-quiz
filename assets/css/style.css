@@ -426,3 +426,21 @@ h2 {
     text-align: justify;
   }
 }
+
+/* Media queries for laptops and desktops (1024px and up) */
+@media screen and (min-width: 1024px) {
+  /* Footer */
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+
+  .social-links {
+    margin-right: 0.2rem;
+  }
+
+  .footer-info {
+    margin-left: 0.2rem;
+  }
+}
