@@ -132,3 +132,22 @@ main {
   font-size: 1.5rem;
   margin-top: 10px;
 }
+
+/* Modal styles */
+.hidden {
+  display: none;
+}
+
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80%;
+  max-width: 450px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 1.5rem;
+  z-index: 100;
+  display: none;
+}
