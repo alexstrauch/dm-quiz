@@ -241,3 +241,11 @@ main {
   color: #6791e0;
   border: 1px solid #6791e0;
 }
+
+/* Homepage with quiz, about page */
+.quiz-container,
+.about-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem 1rem;
+}
