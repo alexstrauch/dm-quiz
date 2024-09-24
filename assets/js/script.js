@@ -93,3 +93,16 @@ usernameSubmit.addEventListener('click', () => {
         alert('Please enter a valid username.');
     }
 });
+
+// Event listener for displaying rules modal
+rulesButton.addEventListener('click', () => {
+    rulesModal.style.display = 'block';
+});
+
+// Event listeners for closing modals
+closeModal.forEach(element => {
+    element.addEventListener('click', () => {
+        usernameModal.style.display = 'none';
+        rulesModal.style.display = 'none';
+    });
+});
