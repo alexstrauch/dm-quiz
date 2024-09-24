@@ -207,3 +207,37 @@ main {
   color: #6791e0;
   border: 1px solid #6791e0;
 }
+
+/* Username input */
+.username-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+#username-input {
+  width: 100%;
+  max-width: 150px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#username-submit {
+  width: 100%;
+  max-width: 150px;
+  padding: 10px;
+  background-color: #000000;
+  color: #fff;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#username-submit:hover {
+  background-color: #ffffff;
+  color: #6791e0;
+  border: 1px solid #6791e0;
+}
