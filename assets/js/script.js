@@ -106,3 +106,19 @@ closeModal.forEach(element => {
         rulesModal.style.display = 'none';
     });
 });
+
+/**
+ * Loads the current question and its answer options into the UI.
+ */
+function loadQuestion() {
+    const question = questions[currentQuestion];
+    questionText.textContent = question.question;
+    answers.innerHTML = '';
+
+    question.options.forEach((option, index) => {
+        const button = document.createElement('button');
+        button.textContent = option;
+        button.addEventListener('click', () => checkAnswer(index));
+        answers.appendChild(button);
+    });
+}
