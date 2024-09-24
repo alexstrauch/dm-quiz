@@ -39,5 +39,27 @@
           <p>Test your knowledge about Depeche Mode</p>
         </div>
       </section>
+      <!-- Main section -->
+    <main>
+      <section>
+        <div id="username-modal" class="modal">
+          <div class="modal-content">
+            <span class="close">&times;</span>
+            <div class="username-form">
+              <label for="username-input" id="username-modal-label">Enter your username</label>
+              <input type="text"
+                id="username-input"
+                name="username-input"
+                aria-labelledby="username-input"
+                pattern="[a-zA-Z0-9_]+"
+                title="Username should only contain letters, numbers, and underscores"
+                placeholder="Username"
+                required
+              />
+              <button id="username-submit">Submit</button>
+            </div>
+          </div>
+        </div>
+      </section>
 </body>
 </html>
