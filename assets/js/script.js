@@ -122,3 +122,45 @@ function loadQuestion() {
         answers.appendChild(button);
     });
 }
+
+/**
+ * Checks if the selected answer is correct, updates the score, and loads the next question.
+ */
+function checkAnswer(selectedAnswerIndex) {
+    const correctAnswerIndex = questions[currentQuestion].correctAnswer;
+    const correctAnswer = questions[currentQuestion].options[correctAnswerIndex];
+
+    if (selectedAnswerIndex === correctAnswerIndex) {
+        feedback.textContent = "Correct!";
+        feedback.style.color = 'green';
+        score++;
+        scoreDisplay.textContent = `Score: ${score}`;
+    } else {
+        feedback.textContent = `Incorrect. The correct answer was: ${correctAnswer}`;
+        feedback.style.color = 'red';
+    }
+
+    feedback.classList.remove('hidden');
+    currentQuestion++;
+
+    if (currentQuestion < questions.length) {
+        setTimeout(() => {
+            loadQuestion();
+            feedback.textContent = "";
+        }, 2500);
+    } else {
+        setTimeout(() => {
+            questionText.classList.add('hidden');
+            feedback.textContent = `You finished the quiz, ${username}!`;
+            scoreDisplay.textContent = `Final Score: ${score} / ${questions.length}`;
+
+            const retryButton = document.createElement('button');
+            retryButton.textContent = "Retry Quiz";
+            retryButton.setAttribute('id', 'retry-button');
+            retryButton.addEventListener('click', resetQuiz);
+
+            answers.innerHTML = '';
+            answers.appendChild(retryButton);
+        }, 2500);
+    }
+}
