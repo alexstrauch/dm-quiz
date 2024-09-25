@@ -196,12 +196,12 @@ The website contains 2 pages in total.
     The user can't make another selection after he chooses his answer, he gets his feedback if he was right or wrong and the next question is loaded after 2.5 sec.<br>
     At the end of the quiz the user is informed that he finished the quiz and receives his final score. He can than select to retry the quiz by clicking on the "Retry Quiz" button.<br>
     It is responsive, the paragraphs shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
-    <img src="assets/docs/start-rules.png">
-    <img src="assets/docs/rules-modal.png">
-    <img src="assets/docs/username-modal.png">
-    <img src="assets/docs/quiz-begin.png">
-    <img src="assets/docs/quiz-correct-answer.png">
-    <img src="assets/docs/quiz-wrong-answer.png">
+    <img src="assets/docs/start-rules.png"><br>
+    <img src="assets/docs/rules-modal.png"><br>
+    <img src="assets/docs/username-modal.png"><br>
+    <img src="assets/docs/quiz-begin.png"><br>
+    <img src="assets/docs/quiz-correct-answer.png"><br>
+    <img src="assets/docs/quiz-wrong-answer.png"><br>
     <img src="assets/docs/retry-quiz.png">
 </details>
 <details>
