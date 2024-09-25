@@ -155,3 +155,23 @@ In the main section below the header are the "Start quiz" button and the "Rules"
 
 [Back to table of contents](#table-of-contents)
 
+## Features
+
+The website contains 2 pages in total.
+
+<details>
+    <summary>Logo and navigation (Click me)</summary>  
+    It is included on all 2 pages.<br> 
+    The logo displays the name of the website & is a clickable link to the homepage which is just best practices.<br> 
+    On the right there are two links to each of the pages: "Home" and "About the quiz" so the user can easily navigate through.<br> 
+    The current page the user is browsing at the moment is highlighted.<br>
+    The logo and the menu are responsive, the page links become a burger menu when viewed on a mobile device.
+    <img src="assets/docs/logo-navigation.png">
+</details>
+<details>   
+    <summary>Hero image (Click me)</summary>     
+    Placed on the top of all pages<br>
+    Shows Depeche Mode during a concert in Toronto.<br>
+    Included in it is a h1 element with the "Welcome Devotees!" message. Underneath it is a p element with the content of "Test your knowledge about Depeche Mode". It is responsive, the background image is resized for smaller screens.<br>
+    <img src="assets/docs/hero-image.png">
+</details>
