@@ -129,3 +129,13 @@ I chose the color scheme of white for the font and black for the background in t
 For the font-color used for the quiz question, the heading and the paragraphs on the about page I chose a classic dark charcoal with a classic white background.
 
 ![Colors](assets/docs/font-colors-fg-bg.png)
+
+### Layout
+
+I aimed to create an intuitive design with simple navigation. To achieve this, the website logo is positioned in the top left corner, while the navigation links are placed on the top right.The header, containing both the logo and menu, is fixed at the top of the page, ensuring easy access to the navigation as users scroll. At the bottom, the footer includes links to social media accounts (each opening in a new tab) on the left, along with the website name, my name (linked to my GitHub profile), and a note clarifying trademarks, logos, and brand ownership. The site consists of two pages:
+
+- Home with a background image of Depeche Mode during a concert in Toronto underneath the header. The header includes a h1 element with the "Welcome Devotees!" message, underneath that is a paragraph including "Test your knowledge about Depeche Mode".
+In the main section below the header are the "Start quiz" button and the "Rules" button.
+
+- About the quiz with a background image of Depeche Mode during a concert in Toronto underneath the header. The header includes a h1 element with the "Welcome Devotees!" message, underneath that is a paragraph including "Test your knowledge about Depeche Mode". In the main section below the header is a h2 element with "About this quiz" and 2 paragraphs with the content of "This Depeche Mode quiz was created as part of my coding bootcamp." and "It's a fun way to test your knowledge of the band's history, albums, songs and more.". Underneath that are 4 images showing the band during concerts from 2006 until 2023.
+
