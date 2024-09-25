@@ -40,3 +40,15 @@
 10. [Deployment](#deployment)
 11. [Credits](#credits)
 12. [Acknowledgements](#acknowledgements)
+
+## Introduction
+
+### Project description
+
+- The Depeche Mode quiz is a web application that offers 10 questions each with 4 possible answers about the history of the band and the music they published over the decades.
+
+### Purpose
+
+- The purpose of the project is to make a fun accessible quiz which is visually engaging, providing users with curated content about the band's past and present. The platform was built to inform new fans and hardcore fans through guided questions about their favorite band.
+
+[Back to table of contents](#table-of-contents)
