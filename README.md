@@ -327,3 +327,20 @@ There are no errors. The 2 warnings are about the imported Google Fonts.
 There are no errors when passing through the JShint validator.
 <img src="assets/docs/js-validation.png">
 </details>
+
+### Performance
+
+<details>
+<summary>index.html (Click me)</summary>
+<img src="assets/docs/index-performance.png">
+</details>
+
+<details>
+<summary>about.html (Click me)</summary>
+<img src="assets/docs/about-performance.png">
+</details>
+
+<details>
+<summary>404.html (Click me)</summary>
+<img src="assets/docs/404-performance.png">
+</details>
