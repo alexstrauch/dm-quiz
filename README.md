@@ -139,3 +139,19 @@ In the main section below the header are the "Start quiz" button and the "Rules"
 
 - About the quiz with a background image of Depeche Mode during a concert in Toronto underneath the header. The header includes a h1 element with the "Welcome Devotees!" message, underneath that is a paragraph including "Test your knowledge about Depeche Mode". In the main section below the header is a h2 element with "About this quiz" and 2 paragraphs with the content of "This Depeche Mode quiz was created as part of my coding bootcamp." and "It's a fun way to test your knowledge of the band's history, albums, songs and more.". Underneath that are 4 images showing the band during concerts from 2006 until 2023.
 
+### Wireframes
+
+<details><summary>Homepage desktop wireframe (Click me)</summary>
+<img src="assets/docs/wireframe-desktop.png">
+</details>
+
+<details><summary>Homepage tablet wireframe (Click me)</summary>
+<img src="assets/docs/wireframe-tablet.png">
+</details>
+
+<details><summary>Homepage mobile wireframe (Click me)</summary>
+<img src="assets/docs/wireframe-iPhone.png">
+</details>
+
+[Back to table of contents](#table-of-contents)
+
