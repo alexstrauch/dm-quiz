@@ -291,3 +291,23 @@ The website contains 2 pages in total.
 | Homepage, the username modal, the rules modal, the quiz, the about quiz page, the image gallery display correctly on screens larger than 767px    | :white_check_mark: |
 | Homepage, the username modal, the rules modal, the quiz, the about quiz page, the image gallery display correctly                                 | :white_check_mark: |
 
+### HTML validation
+
+<details>
+<summary>index.html (Click me)</summary>
+I googled if I could use the aria-label on the section element (contains the background-image) and it said it would be useful if the content needed to be conveyed for accessibility reasons.
+<img src="assets/docs/index-validation.png">
+</details>
+
+<details>
+<summary>about.html (Click me)</summary>
+I googled if I could use the aria-label on the section element (contains the background-image) and it said it would be useful if the content needed to be conveyed for accessibility reasons.
+<img src="assets/docs/about-validation.png">
+</details>
+
+<details>
+<summary>404.html (Click me)</summary>
+I googled if I could use the aria-label on the section element (contains the background-image) and it said it would be useful if the content needed to be conveyed for accessibility reasons.
+<img src="assets/docs/404-validation.png">
+</details>
+
