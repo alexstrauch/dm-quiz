@@ -34,6 +34,7 @@
    - [Responsiveness validation](#responsiveness-validation)
    - [HTML validation](#html-validation)
    - [CSS validation](#css-validation)
+   - [JavaScript validation](#js-validation)
    - [Performance](#performance)
    - [Accessibility](#accessibility)
 9. [Bugs](#bugs)
@@ -317,4 +318,12 @@ I googled if I could use the aria-label on the section element (contains the bac
 <summary>style.css (Click me)</summary>
 There are no errors. The 2 warnings are about the imported Google Fonts.
 <img src="assets/docs/css-validation.png">
+</details>
+
+### JavaScript validation
+
+<details>
+<summary>script.js (Click me)</summary>
+There are no errors when passing through the JShint validator.
+<img src="assets/docs/js-validation.png">
 </details>
