@@ -270,3 +270,15 @@ The website contains 2 pages in total.
 - W3C for CSS code validation
 
 [Back to table of contents](#table-of-contents)
+
+## Testing
+
+### Link validation
+
+| Test                                                                                                                              | Result             |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Every link in the navigation menu leads to the correct page                                                                       | :white_check_mark: |
+| The social media links each open in a new tab on their corresponding site                                                         | :white_check_mark: |
+| When a user clicks on my name in the footer, a new tab is opened and he is forwarded to my GitHub profile                         | :white_check_mark: |
+| When a user attempts to directly type a link in the search bar to browse the site and has a typo he is redirected to the 404 page | :white_check_mark: |
+
