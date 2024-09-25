@@ -204,3 +204,17 @@ The website contains 2 pages in total.
     <img src="assets/docs/quiz-wrong-answer.png">
     <img src="assets/docs/retry-quiz.png">
 </details>
+<details>
+    <summary>About this quiz (Click me)</summary>
+    Placed underneath the hero image.<br>
+    A h2 element followed by 2 short paragraphs briefly what the quiz is about and why it was created.<br>
+    It is responsive, the paragraphs shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
+    <img src="assets/docs/about-quiz.png">
+</details>
+<details>
+    <summary>Image gallery (Click me)</summary>
+    Placed on the "About the quiz" page underneath the 2 paragraphs.<br>
+    4 images which show Depeche Mode during different concerts ranging from 2006 until 2023.<br>
+    The images are responsive, they grow / shrink proportionally when screen size grows or shrinks. On a mobile device the images align on top of each other.<br>
+    <img src="assets/docs/image-gallery.png">
+</details>
