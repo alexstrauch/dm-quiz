@@ -90,6 +90,11 @@ main {
     padding: 0;
   }
 
+  h1 {
+    text-align: center;
+    font-size: 1.8rem;
+  }
+
   /* Hero Section */
 .hero {
   position: relative;
