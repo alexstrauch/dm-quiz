@@ -82,3 +82,30 @@
 - Links and features that work the way they are intended to
 
 - Comprehensive insights about certain milestones during the band's history
+
+### User stories
+
+#### User
+
+- As a new fan I want a quiz that helps me discover key songs and albums from Depeche Mode, so that I can become more familiar with their music and join discussions with other fans
+
+- As a casual fan I want to learn more about the history and evolution of Depeche Mode through a fun quiz, so that I can appreciate their music on a deeper level
+
+- As a longtime fan I want to test my knowledge of Depeche Mode's discography, so that I can see how well I know my favorite band
+
+- As a nostalgic listener I want to recall memorable moments associated with Depeche Mode’s music through quiz questions, so that I can relive those experiences
+
+#### Site owner
+
+- As the operator of the site I want to create an engaging Depeche Mode quiz, so that fans can test their knowledge and share their love for the band
+
+- As the the site owner I want to provide an engaging user experience
+
+- As the site owner I want to display important events that took place during the band's history
+
+- As the site owner I want to promote the site to grow the user base
+
+- As the site operator I want to continuously improve the platform
+
+[Back to table of contents](#table-of-contents)
+
