@@ -119,3 +119,13 @@ Being a huge fan of their music, I decided to create a quiz highlighting key fac
 
 Fonts were used through import from https://fonts.google.com/. The chosen font for the body was _Ruda_ for its clarity and ease of reading. _Arial, sans-serif_ was chosen as the fallback font for all elements.
 To highlight my name with a link to my GitHub profile I used _Rock Salt_.
+
+### Colors
+
+I chose the color scheme of white for the font and black for the background in the menu and the footer because it best represents the band's style with a monochromatic feel to it. These are also applied to the possible answers in the quiz & the action buttons (start, rules) in their natural state.
+
+![Colors](assets/docs/menu-colors-fg-bg.png)
+
+For the font-color used for the quiz question, the heading and the paragraphs on the about page I chose a classic dark charcoal with a classic white background.
+
+![Colors](assets/docs/font-colors-fg-bg.png)
