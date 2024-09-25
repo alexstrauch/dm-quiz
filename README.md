@@ -229,4 +229,12 @@ The website contains 2 pages in total.
 
 [Back to table of contents](#table-of-contents)
 
+## Languages
 
+- HTML
+
+- CSS
+
+- JavaScript
+
+[Back to table of contents](#table-of-contents)
