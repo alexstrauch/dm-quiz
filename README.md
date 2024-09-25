@@ -311,3 +311,10 @@ I googled if I could use the aria-label on the section element (contains the bac
 <img src="assets/docs/404-validation.png">
 </details>
 
+### CSS validation
+
+<details>
+<summary>style.css (Click me)</summary>
+There are no errors. The 2 warnings are about the imported Google Fonts.
+<img src="assets/docs/css-validation.png">
+</details>
