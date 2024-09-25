@@ -175,3 +175,32 @@ The website contains 2 pages in total.
     Included in it is a h1 element with the "Welcome Devotees!" message. Underneath it is a p element with the content of "Test your knowledge about Depeche Mode". It is responsive, the background image is resized for smaller screens.<br>
     <img src="assets/docs/hero-image.png">
 </details>
+<details>
+    <summary>Footer (Click me)</summary> 
+    Appears on all pages.<br>
+    Divided by 2 divs with their class: social-links and footer-info<br>
+    On the left are the social media links which open in a separate tab.<br>
+    On the right is the website name together with my name (clickable, leads to my GitHub profile in a new tab) and the information about ownership rights for trademark, pictures, logo and brand names.<br>
+    It is responsive for all screen sizes, the social media links align over the website name and the accompanying information; both are horizontally centered.
+    <br>
+    <img src="assets/docs/footer.png">
+</details>
+<details>
+    <summary>Start quiz & rules button (Click me)</summary>
+    Placed underneath the hero image.<br>
+    The "Rules" button opens up a modal which briefly informs the user about the rules of the quiz. It can be closed by clicking the x.
+    The "Start Quiz" button initiates the pop up of a username input modal. The user can then enter his username and submit it to get the quiz started.<br>
+    He is then greeted with the first question and 4 possible answers.<br>
+    When he selects the correct answer he gets visual feedback underneath the possible answers and the score is incremented.<br>
+    If he chooses the wrong answer he gets a visual feedback underneath the possible answers and is informed of the correct answer. The score is not incremented.<br>
+    The user can't make another selection after he chooses his answer, he gets his feedback if he was right or wrong and the next question is loaded after 2.5 sec.<br>
+    At the end of the quiz the user is informed that he finished the quiz and receives his final score. He can than select to retry the quiz by clicking on the "Retry Quiz" button.<br>
+    It is responsive, the paragraphs shrink in width and adjust in height when viewed on a mobile device or tablet.<br>
+    <img src="assets/docs/start-rules.png">
+    <img src="assets/docs/rules-modal.png">
+    <img src="assets/docs/username-modal.png">
+    <img src="assets/docs/quiz-begin.png">
+    <img src="assets/docs/quiz-correct-answer.png">
+    <img src="assets/docs/quiz-wrong-answer.png">
+    <img src="assets/docs/retry-quiz.png">
+</details>
