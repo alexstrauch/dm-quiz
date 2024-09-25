@@ -282,3 +282,12 @@ The website contains 2 pages in total.
 | When a user clicks on my name in the footer, a new tab is opened and he is forwarded to my GitHub profile                         | :white_check_mark: |
 | When a user attempts to directly type a link in the search bar to browse the site and has a typo he is redirected to the 404 page | :white_check_mark: |
 
+### Responsiveness validation
+
+| Test                                                                                                                                              | Result             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| The image gallery displays correctly on mobile devices (images align on top of each other)                                                        | :white_check_mark: |
+| Homepage, the username modal, the rules modal, the quiz, the about quiz page, the image gallery display correctly on screens smaller than 768px   | :white_check_mark: |
+| Homepage, the username modal, the rules modal, the quiz, the about quiz page, the image gallery display correctly on screens larger than 767px    | :white_check_mark: |
+| Homepage, the username modal, the rules modal, the quiz, the about quiz page, the image gallery display correctly                                 | :white_check_mark: |
+
