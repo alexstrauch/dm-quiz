@@ -330,6 +330,8 @@ There are no errors when passing through the JShint validator.
 
 ### Performance
 
+Performance was tested using Lighthouse in Chrome Dev Tools.
+
 <details>
 <summary>index.html (Click me)</summary>
 <img src="assets/docs/index-performance.png">
