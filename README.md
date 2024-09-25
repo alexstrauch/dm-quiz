@@ -218,3 +218,15 @@ The website contains 2 pages in total.
     The images are responsive, they grow / shrink proportionally when screen size grows or shrinks. On a mobile device the images align on top of each other.<br>
     <img src="assets/docs/image-gallery.png">
 </details>
+
+[Back to table of contents](#table-of-contents)
+
+## Future features
+
+- more questions
+
+- a timer to put the user under a little bit more pressure
+
+[Back to table of contents](#table-of-contents)
+
+
