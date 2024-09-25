@@ -109,3 +109,13 @@
 
 [Back to table of contents](#table-of-contents)
 
+## Design
+
+### Design choices
+
+Being a huge fan of their music, I decided to create a quiz highlighting key facts about the band across different decades. The logo prominently features the website’s name, and the interface is minimalist and clean, prioritizing the content. Each menu link is clearly labeled, helping users easily navigate to the relevant sections. I incorporated ample white space to guide attention to the most important elements.
+
+### Fonts
+
+Fonts were used through import from https://fonts.google.com/. The chosen font for the body was _Ruda_ for its clarity and ease of reading. _Arial, sans-serif_ was chosen as the fallback font for all elements.
+To highlight my name with a link to my GitHub profile I used _Rock Salt_.
