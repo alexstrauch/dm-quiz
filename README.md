@@ -52,3 +52,33 @@
 - The purpose of the project is to make a fun accessible quiz which is visually engaging, providing users with curated content about the band's past and present. The platform was built to inform new fans and hardcore fans through guided questions about their favorite band.
 
 [Back to table of contents](#table-of-contents)
+
+## UX
+
+### User demographic
+
+- This project is intended for Depeche Mode fans and newcomers of all ages who want to dive deeper into the history of the band.
+
+### User goals
+
+- Test knowledge about Depeche Mode's history
+
+- Learn new information together with lesser-known facts and trivia
+
+- Recall memories associated with their favorite songs
+
+- Enjoy a fun activity that combines love for music with interactive entertainment
+
+### User expectations
+
+- Clean modern visual appearance which follows best practices
+
+- Accessible website on all devices
+
+- Responsive design on all devices without layout or performance issues
+
+- User-friendly interface with easy access to the provided information
+
+- Links and features that work the way they are intended to
+
+- Comprehensive insights about certain milestones during the band's history
