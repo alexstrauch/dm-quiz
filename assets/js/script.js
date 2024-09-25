@@ -130,6 +130,10 @@ function checkAnswer(selectedAnswerIndex) {
     const correctAnswerIndex = questions[currentQuestion].correctAnswer;
     const correctAnswer = questions[currentQuestion].options[correctAnswerIndex];
 
+    // Disable all buttons after selection
+    const buttons = answers.querySelectorAll('button');
+    buttons.forEach(button => button.disabled = true);
+
     if (selectedAnswerIndex === correctAnswerIndex) {
         feedback.textContent = "Correct!";
         feedback.style.color = 'green';
