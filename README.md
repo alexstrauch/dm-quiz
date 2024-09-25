@@ -238,3 +238,35 @@ The website contains 2 pages in total.
 - JavaScript
 
 [Back to table of contents](#table-of-contents)
+
+## Technologies
+
+- GitHub for the repository
+
+- Gitpod (IDE)
+
+- git for version control
+
+- Chrome Dev Tools
+
+- Balsamiq for the wireframes
+
+- For the vinyl record favicon: https://gauger.io/fonticon/
+
+- For the favicon conversion: https://favicon.io
+
+- Font Awesome for the burger menu and the social media logos
+
+- Google Fonts for the _Ruda_ and _Rock Salt_ fonts
+
+- Convertio to compress the images
+
+- Adobe color
+
+- WebAIM for accessibility requirements
+
+- W3C for HTML code validation
+
+- W3C for CSS code validation
+
+[Back to table of contents](#table-of-contents)
