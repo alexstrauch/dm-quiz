@@ -397,3 +397,35 @@ The pages have no errors.
 
 [Back to table of contents](#table-of-contents)
 
+## Credits
+
+### Media
+
+- Hero image: https://www.flickr.com/photos/197171168@N04/52806114434/ <br>
+Photo by Dillan Payne, compressed with convertio
+
+- Top left image in desktop view: https://www.flickr.com/photos/96679304@N00/175418653 <br>
+Photo by Fabio Venni, compressed with convertio
+
+- Top right image in desktop view: https://commons.wikimedia.org/wiki/File:Depeche_Mode_live_at_Stadio_Renato_Dall%27Ara,_Bologna_-_July_16th,_2023_%28224247%29.jpg <br>
+Photo by Dennis Radaelli, compressed with convertio
+
+- Bottom left image in desktop view: https://www.flickr.com/photos/73014677@N05/10838503476/ <br>
+Photo by Fraser Mummery, compressed with convertio
+
+- Bottom right image in desktop view: https://www.flickr.com/photos/53477761@N08/4935379210 <br>
+Photo by Alberto Cabello, compressed with convertio
+
+- For the baseball favicon: https://gauger.io/fonticon/
+
+- Font Awesome for the burger menu and the social media logos
+
+### Code
+
+I was inspired for some sections of my quiz by these sources:
+
+[Build a quiz app with JavaScript](https://www.youtube.com/watch?v=riDzcEQbX6k) from Web Dev Simplified <br>
+
+[How to make quiz app using JavaScript](https://www.youtube.com/watch?v=PBcqGxrr9g8) from GreatStack <br>
+
+[Back to table of contents](#table-of-contents)
