@@ -369,3 +369,14 @@ The pages have no errors.
 
 [Back to table of contents](#table-of-contents)
 
+## Bugs
+
+| Bug                                                                | Fix                                                                                                                     |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| Footer was not pushed down on 404 page                             | Wrap the section and the 2 headings in main element |
+| User could click other answer buttons during the quiz after first selection was made | Use ` const buttons = answers.querySelectorAll('button'); buttons.forEach(button => button.disabled = true);` to disable buttons|
+| Not enough space between social media icons & copyright information on desktop view | Use `.footer-content { max-width: 1000px; margin: 0 auto; padding: 0 2rem;} .social-links {margin-right: 1rem;} .footer-info {margin-left: 1rem;}` on media query for 1024px and up to adjust space between content|
+| Warning about empty heading (is used for generated JavaScript question) in index.html during accessibility test | Add . in h1 element |
+| Warning about low contrast for heading & paragraph in hero-image during accessibility test | Add `background-color: #333;` on hero class in stylesheet|
+
+[Back to table of contents](#table-of-contents)
