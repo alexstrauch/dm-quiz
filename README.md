@@ -271,6 +271,8 @@ The website contains 2 pages in total.
 
 - W3C for CSS code validation
 
+- JShint for JavaScript validation
+
 [Back to table of contents](#table-of-contents)
 
 ## Testing
