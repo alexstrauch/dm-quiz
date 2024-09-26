@@ -40,7 +40,8 @@
 9. [Bugs](#bugs)
 10. [Deployment](#deployment)
 11. [Credits](#credits)
-12. [Acknowledgements](#acknowledgements)
+12. [Resources](#resources)
+13. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -416,7 +417,7 @@ Photo by Fraser Mummery, compressed with convertio
 - Bottom right image in desktop view: https://www.flickr.com/photos/53477761@N08/4935379210 <br>
 Photo by Alberto Cabello, compressed with convertio
 
-- For the baseball favicon: https://gauger.io/fonticon/
+- For the record vinyl favicon: https://gauger.io/fonticon/
 
 - Font Awesome for the burger menu and the social media logos
 
@@ -427,5 +428,21 @@ I was inspired for some sections of my quiz by these sources:
 [Build a quiz app with JavaScript](https://www.youtube.com/watch?v=riDzcEQbX6k) from Web Dev Simplified <br>
 
 [How to make quiz app using JavaScript](https://www.youtube.com/watch?v=PBcqGxrr9g8) from GreatStack <br>
+
+[Back to table of contents](#table-of-contents)
+
+## Resources
+
+- [EntityCode](https://entitycode.com/) for the &copy; character in the footer section
+
+- [Stackoverflow](https://stackoverflow.com/questions/48087480/how-to-disable-all-buttons-under-a-class-in-html-using-javascript) for disabling buttons
+
+- Chrome Dev Tools helped a lot to figure out how things work by breaking things apart and playing with them
+
+[Back to table of contents](#table-of-contents)
+
+## Acknowledgements
+
+I would like to thank my mentor Gareth McGirr for his useful tips and keen insight.
 
 [Back to table of contents](#table-of-contents)
