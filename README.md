@@ -380,3 +380,20 @@ The pages have no errors.
 | Warning about low contrast for heading & paragraph in hero-image during accessibility test | Add `background-color: #333;` on hero class in stylesheet|
 
 [Back to table of contents](#table-of-contents)
+
+## Deployment
+
+> To deploy the project I followed these steps starting from the main project repository [here](https://github.com/alexstrauch/dm-quiz).
+
+1.  I clicked on the `Settings` tab in the navigation menu in the repository.
+2.  After that I selected the `Pages` link on the left side bar.
+3.  I clicked on the 1st dropdown menu `Source` and selected `Deploy from a branch`.
+4.  In the second dropdown menu labeled `Branch` I selected the `main` option from the dropdown.
+5.  I left `/root` as the default option in the `Branch` dropdown menu.
+6.  For the last step I submitted my selection by clicking the <button>Save</button> button.
+
+> GitHub notified me that my project was being deployed.<br>
+> I got myself a coffee and hit refresh, the page was live.
+
+[Back to table of contents](#table-of-contents)
+
