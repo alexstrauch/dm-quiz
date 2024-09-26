@@ -34,7 +34,7 @@
    - [Responsiveness validation](#responsiveness-validation)
    - [HTML validation](#html-validation)
    - [CSS validation](#css-validation)
-   - [JavaScript validation](#js-validation)
+   - [JavaScript validation](#javascript-validation)
    - [Performance](#performance)
    - [Accessibility](#accessibility)
 9. [Bugs](#bugs)
@@ -368,3 +368,4 @@ The pages have no errors.
 </details>
 
 [Back to table of contents](#table-of-contents)
+
