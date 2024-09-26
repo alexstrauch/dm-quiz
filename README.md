@@ -346,3 +346,25 @@ Performance was tested using Lighthouse in Chrome Dev Tools.
 <summary>404.html (Click me)</summary>
 <img src="assets/docs/404-performance.png">
 </details>
+
+### Accessibility
+
+Accessibility was tested using WAVE - Web Accessibility Evaluation Tool.<br>
+The pages have no errors.
+
+<details>
+<summary>index.html (Click me)</summary>
+<img src="assets/docs/index-accessibility.png">
+</details>
+
+<details>
+<summary>about.html (Click me)</summary>
+<img src="assets/docs/about-accessibility.png">
+</details>
+
+<details>
+<summary>404.html (Click me)</summary>
+<img src="assets/docs/404-accessibility.png">
+</details>
+
+[Back to table of contents](#table-of-contents)
